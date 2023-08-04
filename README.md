@@ -4,7 +4,7 @@ Bash tests for utils included!
 
 Tests usage:
 ------
-```bassh test_func_cat.sh```
+```bash test_func_cat.sh```
 
 ```bash test_leak_cat.sh```
 
